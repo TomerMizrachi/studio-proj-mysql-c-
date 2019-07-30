@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\tomer\source\repos\project20\project20\source.cpp(21): warning C4101: 'buff': unreferenced local variable
+c:\users\tomer\source\repos\project20\project20\source.cpp(63): warning C4101: 'buff': unreferenced local variable
+c:\users\tomer\source\repos\project20\project20\source.cpp(107): warning C4101: 'buff': unreferenced local variable
+c:\users\tomer\source\repos\project20\project20\source.cpp(278): warning C4101: 'buff': unreferenced local variable
+c:\users\tomer\source\repos\project20\project20\source.cpp(544): warning C4101: 'i': unreferenced local variable
+  Generating code
+  0 of 222 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project20.vcxproj -> C:\Users\Tomer\source\repos\Project20\x64\Release\Project20.exe
